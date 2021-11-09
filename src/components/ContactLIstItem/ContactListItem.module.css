@@ -1,0 +1,14 @@
+.item {
+  font-weight: 500;
+  color: #ffffff;
+  justify-content: space-between;
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.list {
+  width: 400px;
+  text-align: right;
+  margin: 0 auto;
+  padding-right: 20px;
+}
